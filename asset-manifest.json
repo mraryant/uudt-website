@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9bb033bf.css",
+    "main.js": "/static/js/main.6e15778a.js",
+    "static/js/635.41550bd6.chunk.js": "/static/js/635.41550bd6.chunk.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/js/948.c7e0c000.chunk.js": "/static/js/948.c7e0c000.chunk.js",
+    "static/media/bG.png": "/static/media/bG.04bd89f07d746d39ffd4.04bd89f07d746d39ffd4.png",
+    "static/media/blockchain_2 1.png": "/static/media/blockchain_2 1.2112b7751ad6384be7de.png",
+    "static/media/WalletConnect.png": "/static/media/WalletConnect.13798276a43e02957131.13798276a43e02957131.png",
+    "static/media/WhatsApp_Image_2023-09-09_at_3.34.26_PM__1_-removebg-preview.png": "/static/media/WhatsApp_Image_2023-09-09_at_3.34.26_PM__1_-removebg-preview.893973b2193779a15dc2.png",
+    "static/media/MetaMask Fox.png": "/static/media/MetaMask Fox.900b5bef784601bc0be8.900b5bef784601bc0be8.png",
+    "static/media/PlusJakartaSans-Light.ttf": "/static/media/PlusJakartaSans-Light.0b090a7f3053d7ff5a98.ttf",
+    "static/media/PlusJakartaSans-Medium.ttf": "/static/media/PlusJakartaSans-Medium.b1ea1e4a874b401f584a.ttf",
+    "static/media/PlusJakartaSans-ExtraBold.ttf": "/static/media/PlusJakartaSans-ExtraBold.5a0637ca31265773a597.ttf",
+    "static/media/PlusJakartaSans-Bold.ttf": "/static/media/PlusJakartaSans-Bold.fea436026c7ab9d46e14.ttf",
+    "static/media/Logo.png": "/static/media/Logo.091b9f07dcac4fdc1d79.png",
+    "index.html": "/index.html",
+    "static/media/Vector (25).svg": "/static/media/Vector (25).caab85f7f91832bf3be825e5c1287eef.svg",
+    "main.9bb033bf.css.map": "/static/css/main.9bb033bf.css.map",
+    "main.6e15778a.js.map": "/static/js/main.6e15778a.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map",
+    "948.c7e0c000.chunk.js.map": "/static/js/948.c7e0c000.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9bb033bf.css",
+    "static/js/main.6e15778a.js"
+  ]
+}
