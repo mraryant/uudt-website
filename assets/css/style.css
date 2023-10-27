@@ -3049,3 +3049,10 @@ label {
     -webkit-transform: scaleY(1);
   }
 }
+#sosial-icons a {
+  transition: transform 0.2s;
+}
+
+#sosial-icons a:hover {
+  transform: scale(1.1);
+}
